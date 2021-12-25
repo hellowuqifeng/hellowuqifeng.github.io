@@ -1,29 +1,13 @@
-# Gitqifeng
+## 圣诞快乐
 
-#### 介绍
-个人博客
+[效果预览](https://jwautumn.github.io/MerryChristmas/index)
 
-#### 软件架构
-软件架构说明
+从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，挂载到 `GitHub Pages` 上，分享给喜欢的人看。
 
+如果你喜欢的话，可以下载或者 `fork` 到自己的仓库，修改下对应的文字。挂载到自己的 `GitHub Pages` 下。
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
+<img src="./preview.gif" alt="preview" style="zoom:50%;" />
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+> PS：我只是个搬运工。
